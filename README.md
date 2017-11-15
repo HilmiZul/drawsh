@@ -1,5 +1,5 @@
 # About
-drawsh is a program to create some shapes on Canvas. Build with Tkinter module. You can draw something with limited shapes: Oval and Line, with your creativity.
+drawsh is a program to create some shapes on Canvas. Build with Tkinter module. You can draw something with limited shapes like Oval and Line, with your creativities.
 
 # Before...
 * Python 2.7x or later
