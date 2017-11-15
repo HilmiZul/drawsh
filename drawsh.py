@@ -6,8 +6,7 @@
 from Tkinter import *
 #from tqdm import *
 from time import *
-import datetime
-import tkMessageBox
+import datetime,tkMessageBox
 
 root = Tk()
 root.title(".: DRAWSH :.")
