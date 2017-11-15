@@ -1,4 +1,4 @@
-#!/usr/bin/env python 
+#!/usr/bin/env python
 #
 # July 27th 2016
 # author: Zul Hilmi <netspytux@gmail.com
@@ -10,7 +10,7 @@ import datetime
 import tkMessageBox
 
 root = Tk()
-root.title(".: Membuat Objek Seenak Jidat :.")
+root.title(".: DRAWSH :.")
 
 # Buat kanvas
 kanvas = Canvas(root, width=800, height=500, bg="#fff")
