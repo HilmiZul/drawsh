@@ -8,7 +8,7 @@ drawsh is a program to create some shapes on Canvas. Build with Tkinter module. 
   * macOS: ```$ brew install tcl-tk```
 
 # Let's Play :D
-* Download ```drawsh-master.zip```
+* Download ```[drawsh-master.zip!](https://github.com/HilmiZul/drawsh/archive/master.zip)```
 * Exctract it
 * Open terminal, run ```python drawsh.py``` or ```./drawsh.py```
 
