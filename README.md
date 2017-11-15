@@ -3,7 +3,9 @@ drawsh is a program to create some shapes on Canvas. Build with Tkinter module. 
 
 # Before...
 * Python 2.7x or later
-* Module: Tkinter
+* Install Tkinter
+  * Debian and it inheritance: ```$ sudo apt install python-tk``` or ```$ sudo apt install python3-tk```
+  * macOS: ```$ brew install tcl-tk```
 
 # Let's Play :D
 * Download ```drawsh-master.zip```
