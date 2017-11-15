@@ -1,5 +1,5 @@
 # About
-Create some shapes on Canvas. Draw something with limited shapes like Oval and Line, with your creativities.
+Create some shapes on Canvas. Draw something with limited shapes using Oval and Line, with your creativities.
 
 # Before...
 * Python 2.7x or later
