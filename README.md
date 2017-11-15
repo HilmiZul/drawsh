@@ -13,4 +13,5 @@ drawsh is a program to create some shapes on Canvas. Build with Tkinter module. 
 * Open terminal, run ```python drawsh.py``` or ```./drawsh.py```
 
 # Example
+Two mountains with yellow sun
 ![Image of sc](https://github.com/HilmiZul/drawsh/blob/master/sc.png)
