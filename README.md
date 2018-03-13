@@ -4,7 +4,7 @@ Create some shapes on Canvas. Draw something with limited shapes using Oval and 
 # Before...
 * Python 2.7x or later
 * Install Tkinter
-  * Debian and it inheritance: ```$ sudo apt install python-tk``` or ```$ sudo apt install python3-tk```
+  * Debian dan turunannya: ```$ sudo apt install python-tk``` or ```$ sudo apt install python3-tk```
   * macOS: ```$ brew install tcl-tk```
 
 # Let's Play :D
